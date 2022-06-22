@@ -1,13 +1,9 @@
-==============================the API used for the project does not work=======================================
-==============================the API used for the project does not work=======================================
-==============================the API used for the project does not work=======================================
-==============================the API used for the project does not work=======================================
-==============================the API used for the project does not work=======================================
-==============================the API used for the project does not work=======================================
-==============================the API used for the project does not work=======================================
+=============the API used for the project does not work=============
+=============the API used for the project does not work=============
+=============the API used for the project does not work=============
+=============the API used for the project does not work=============
 
-
-==============================but project work local network===================================================
+=============but project work local network=============
 
 
 

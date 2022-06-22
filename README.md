@@ -1,7 +1,4 @@
-=============the API used for the project does not work=============
-=============the API used for the project does not work=============
-=============the API used for the project does not work=============
-=============the API used for the project does not work=============
+========the API used in this project temporary does not work======
 
 =============but project work local network=============
 
